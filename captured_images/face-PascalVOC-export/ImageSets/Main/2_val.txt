@@ -1,0 +1,2 @@
+image_8.jpg 1
+image_7.jpg -1

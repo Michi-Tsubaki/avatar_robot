@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c893c11074e039cb2ae211636b9b23d8",
+        "name": "image_0.jpg",
+        "path": "file:C:/Users/michi/Documents/vscode/avatar/captured_images/image_0.jpg",
+        "size": {
+            "width": 640,
+            "height": 480
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "O47sQHtSa",
+            "type": "RECTANGLE",
+            "tags": [
+                "1"
+            ],
+            "boundingBox": {
+                "height": 272.56281407035175,
+                "width": 188.98680261299432,
+                "left": 283.1036020627354,
+                "top": 158.71357520021982
+            },
+            "points": [
+                {
+                    "x": 283.1036020627354,
+                    "y": 158.71357520021982
+                },
+                {
+                    "x": 472.0904046757297,
+                    "y": 158.71357520021982
+                },
+                {
+                    "x": 472.0904046757297,
+                    "y": 431.27638927057154
+                },
+                {
+                    "x": 283.1036020627354,
+                    "y": 431.27638927057154
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

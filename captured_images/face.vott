@@ -1,0 +1,169 @@
+{
+    "name": "face",
+    "securityToken": "face Token",
+    "sourceConnection": {
+        "name": "Image",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNzY1M2JkMzE2ZWFjOWI4Y2Q2MmNiMzgxZGY0OTZmNmRlODFlN2JmNTljMDExYjI2MmRkYTY3ZGM5NGI1YjQ3ZWEyMmYxNzM0ZmRmMzJiYjQwMDI5NTRkY2EzOWJhMDA5ZmFmMTQ3OWIwYjg1NzA2MmI0OTA3NmU5YjUxYTU0NTc2YTY1YzExZGY3ZWJiOTI2ZjQxZDNjOTNmYjkxZWI0OSIsIml2IjoiNTU4YjQ4ZmQzZjFlMTQ5ZWM4MjkxNDlmYTE3NzBkZDBhNWM0MGY1YzY0NzBmNWI3In0="
+        },
+        "id": "Vq6kVj5MU"
+    },
+    "targetConnection": {
+        "name": "Image",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDAzMzRjNGRhNWI1Njk0NGUyZDBkMWQ2MTlmY2M1ZDllMWVkNDlhYTM0M2E5NTdkMDBlOWJjMDU3MjA1NmZlOGJiNDA4ZGRmMWZkNDg1OTAwMmJmMzM4N2Y4NmRjYzVjYTlmZmY4NmI1NTY1NmNmZTg2NjQyZTkwOTc5NmU3MThlZWYzNzFmNzQzZjM1MmQ5YWU2NTIxZWUxNDRkMDM2ZCIsIml2IjoiM2VjNTI0MjJiNmY3YjEyNTNkZjg2ZjdkOTkyODU0NTFiYTQ3OGYyNWJkMTA0NDFlIn0="
+        },
+        "id": "Vq6kVj5MU"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "1",
+            "color": "#5db300"
+        },
+        {
+            "name": "2",
+            "color": "#e81123"
+        }
+    ],
+    "id": "5uMW4Zl9N",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "pascalVOC",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOWFhZWRkOTg0ODgwMTQ5YmQ3MjAwMjA3MjI4YzgyNzRjZGVkNmMzZDY2NjFkY2ExNGZlYzBkYjJjYjUxZGRmYjRmOThiYzk2OWVhMzNhMjMxOTY1YTc2ODcyZDM1MWU3ODNkOWVkMDA4ZDk2YzM2MWMxMjE0MjYyNTFjNGJhOTg1ZThlMmVkYzZkY2YwM2UxZDQ3NzkzZTE0MWE0MTdlNSIsIml2IjoiYzNjOTFjMGI5MTk3YzU3MGE3ZWYxZjI3NmU5ZDU0Mzk2OGZiMTE1MmNiMTJiMjc2In0="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "2200058a357d3228e590e2a3235f63fb",
+    "assets": {
+        "c893c11074e039cb2ae211636b9b23d8": {
+            "format": "jpg",
+            "id": "c893c11074e039cb2ae211636b9b23d8",
+            "name": "image_0.jpg",
+            "path": "file:C:/Users/michi/Documents/vscode/avatar/captured_images/image_0.jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d88b3914631e76e57f7945b2dabb13ad": {
+            "format": "jpg",
+            "id": "d88b3914631e76e57f7945b2dabb13ad",
+            "name": "image_1.jpg",
+            "path": "file:C:/Users/michi/Documents/vscode/avatar/captured_images/image_1.jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0477c29143951e657f0a301aa7c03cfd": {
+            "format": "jpg",
+            "id": "0477c29143951e657f0a301aa7c03cfd",
+            "name": "image_2.jpg",
+            "path": "file:C:/Users/michi/Documents/vscode/avatar/captured_images/image_2.jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2ffc28e489ceaae04c7895b81e8f1ca7": {
+            "format": "jpg",
+            "id": "2ffc28e489ceaae04c7895b81e8f1ca7",
+            "name": "image_3.jpg",
+            "path": "file:C:/Users/michi/Documents/vscode/avatar/captured_images/image_3.jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8174b4ea1d3c4128e40a49c95968cbd9": {
+            "format": "jpg",
+            "id": "8174b4ea1d3c4128e40a49c95968cbd9",
+            "name": "image_5.jpg",
+            "path": "file:C:/Users/michi/Documents/vscode/avatar/captured_images/image_5.jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "977065de8ba959c77c4826ddca6da188": {
+            "format": "jpg",
+            "id": "977065de8ba959c77c4826ddca6da188",
+            "name": "image_4.jpg",
+            "path": "file:C:/Users/michi/Documents/vscode/avatar/captured_images/image_4.jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c7ac6dcaa9032c9237798515c181f60d": {
+            "format": "jpg",
+            "id": "c7ac6dcaa9032c9237798515c181f60d",
+            "name": "image_6.jpg",
+            "path": "file:C:/Users/michi/Documents/vscode/avatar/captured_images/image_6.jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "667baad45f7e6ae04935c4edcfe8b2c5": {
+            "format": "jpg",
+            "id": "667baad45f7e6ae04935c4edcfe8b2c5",
+            "name": "image_7.jpg",
+            "path": "file:C:/Users/michi/Documents/vscode/avatar/captured_images/image_7.jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2200058a357d3228e590e2a3235f63fb": {
+            "format": "jpg",
+            "id": "2200058a357d3228e590e2a3235f63fb",
+            "name": "image_9.jpg",
+            "path": "file:C:/Users/michi/Documents/vscode/avatar/captured_images/image_9.jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b9254e315832ddfc07b6b238c98b4f1d": {
+            "format": "jpg",
+            "id": "b9254e315832ddfc07b6b238c98b4f1d",
+            "name": "image_8.jpg",
+            "path": "file:C:/Users/michi/Documents/vscode/avatar/captured_images/image_8.jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}
