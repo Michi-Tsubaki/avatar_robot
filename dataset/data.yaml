@@ -1,0 +1,8 @@
+train: "C:/Users/michi/Documents/vscode/avatar/dataset/train"
+val: "C:/Users/michi/Documents/vscode/avatar/dataset/val"
+
+# number of classes
+nc: 2
+
+# class names
+names: ['1','2']
